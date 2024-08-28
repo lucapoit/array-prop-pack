@@ -1,23 +1,16 @@
-# array-prop-pack
+# array_prop_pack
 
 Description. 
-The package array-prop-pack is used to:
+The package array_prop_pack is used to:
 	- Study how to publish python packs 
 	- Returns some properties of a given array 
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install array-prop-pack
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install array_prop_pack
 
 ```bash
-pip install array-prop-pack
-```
-
-## Usage
-
-```python
-from array-prop-pack import array_prop.py
-array_prop.prop()
+pip install array_prop_pack
 ```
 
 ## Author

@@ -1,27 +1,27 @@
-# package_name
+# array-prop-pack
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+The package array-prop-pack is used to:
+	- Study how to publish python packs 
+	- Returns some properties of a given array 
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install array-prop-pack
 
 ```bash
-pip install package_name
+pip install array-prop-pack
 ```
 
 ## Usage
 
 ```python
-from package_name import file1_name
-file1_name.my_function()
+from array-prop-pack import array_prop.py
+array_prop.prop()
 ```
 
 ## Author
-My_name
+Luca
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
